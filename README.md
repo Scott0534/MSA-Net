@@ -1,2 +1,6 @@
 # MSA-Net
-The pytorch code of "MSA-Net: Masked Separable Attention for Breast Ultrasound Tumor Segmentation" Code will be upload when our paper is acceptted.
+**News** 🥰:
+- <font color="#dd0000" size="4">**CMUNeXt is accepted by BIBM 2025 as oral presentation !**</font> 🥰
+- <font color="#dd0000" size="4">**Paper is accepted by BIBM 2025 !**</font> 🎉
+- <font color="#dd0000" size="4">**Code is released now !**</font> 
+- <font color="#dd0000" size="4">**Code will be released soon !**</font> 😘
